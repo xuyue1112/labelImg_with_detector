@@ -1,0 +1,5 @@
+{
+    "checkpoint": "/Users/bytedance/Documents/JiangnaProject/labelImg/rddc2020/yolov5/weights/IMSC/last_100_100_640_16.pt",
+    "image_size": 640,
+    "class_names": "/Users/bytedance/Documents/JiangnaProject/labelImg/class_names.txt"
+}
